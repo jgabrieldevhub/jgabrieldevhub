@@ -1,16 +1,26 @@
-## Hi there 👋
+#profile {
+  name: "Jorge Gabriel";
+  role: "Estudante de Desenvolvimento";
+  status: "Em aprendizado contínuo";
+}
 
-<!--
-**jgabrieldevhub/jgabrieldevhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.about-me {
+  education: "Estudante de tecnologia";
+  focus: "Aprender fundamentos e boas práticas";
+  mindset: "Curioso, dedicado e em evolução constante";
+}
 
-Here are some ideas to get you started:
+.skills-learning {
+  languages: [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ];
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+.contact {
+  github: url(https://github.com/jgabrieldevhub);
+  linkedin: url(www.linkedin.com/in/jorge-gabriel-dev);
+}
+
+/* Obrigado por visitar meu perfil */

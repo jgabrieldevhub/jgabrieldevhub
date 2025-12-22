@@ -1,3 +1,4 @@
+```css
 #profile {
   name: "Jorge Gabriel";
   role: "Estudante de Desenvolvimento";
@@ -24,3 +25,4 @@
 }
 
 /* Obrigado por visitar meu perfil */
+```

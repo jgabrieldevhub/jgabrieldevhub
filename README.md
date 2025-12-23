@@ -29,7 +29,7 @@
 /* Obrigado por visitar meu perfil */
 ```
 
-<p align="center"> <h2 align="center">Developing Tools:</h2> </p>
+<p align="center"> <h2 align="center">Learning tools Tools:</h2> </p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,windows,vscode,github,mysql,figma" />
